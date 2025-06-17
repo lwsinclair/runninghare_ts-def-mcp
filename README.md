@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-runninghare-ts-def-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-runninghare-ts-def-mcp)
+
 # TypeScript Definition Finder MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@runninghare/ts-def-mcp)](https://smithery.ai/server/@runninghare/ts-def-mcp)
